@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin":{
+  	"git-stats-html":"bin/git-stats-html"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/adros/git-stats-html.git"

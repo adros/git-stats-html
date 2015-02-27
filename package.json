@@ -1,0 +1,24 @@
+{
+  "name": "git-stats-html",
+  "version": "1.0.0",
+  "description": "Wrapper for git-stats module, which transforms its output to HTML.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adros/git-stats-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adros/git-stats-html/issues"
+  },
+  "homepage": "https://github.com/adros/git-stats-html",
+  "dependencies": {
+    "ansi-html-stream": "^0.0.3",
+    "git-stats": "^1.4.0"
+  },
+  "devDependencies": {}
+}

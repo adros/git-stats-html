@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "git-stats-html": "bin/git-stats-html"
+    "git-stats-html": "bin/git-stats-html",
+    "git-stats-data": "bin/git-stats-data"
   },
   "repository": {
     "type": "git",

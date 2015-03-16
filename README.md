@@ -14,3 +14,7 @@ Wrapper for git-stats module, which transforms its output to HTML.
 
 Module calls git-stats CLI too with --no-ansi switch. Than transform it to HTML using ansi-html-stream
 and then replaces selected characters for SPANs with color defined in style.
+
+## get data as json
+
+	git-stats-data

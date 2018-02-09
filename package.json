@@ -1,6 +1,6 @@
 {
   "name": "@gti/git-stats-html",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Wrapper for git-stats module, which transforms its output to HTML.",
   "main": "lib/index.js",
   "scripts": {

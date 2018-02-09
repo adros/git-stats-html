@@ -1,5 +1,6 @@
 # git-stats-html
 
+DEPRECATED! Use https://github.com/IonicaBizau/git-stats-html instead
 Wrapper for git-stats module, which transforms its output to HTML.
 
 ## usage
